@@ -13,6 +13,8 @@ pip install google-generativeai
 <Your folder>
    --> templates\
            --> index.html
+           --> script.js
+           --> style.css 
    --> app.py
 ```
 3. Then replace you google-gemini api key in app.py 🔑
